@@ -57,9 +57,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ## OUTPUT:
 
 ### client
-![alt text](client.png)
+![CLIENT](https://github.com/user-attachments/assets/f65637a2-f5dd-4823-95bb-f8c34bdf48c2)
+
 ### server
-![alt text](server.png)
+![Screenshot 2024-09-11 100459](https://github.com/user-attachments/assets/7af230d9-231a-4cf7-b2a0-7890fffd336a)
+
 
 ## RESULT:
 The program is executed successfully
